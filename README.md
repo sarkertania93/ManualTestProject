@@ -16,7 +16,7 @@ The objective of this project is to demonstrate practical knowledge of manual so
 
 - 📄 Test Plan
 - 🧠 Mind Map
-- 📋 Test Scenarios
+- 📋 RTM (Requirement Tracability Matrix)
 - ✅ Test Cases
 - 🐞 Bug Report
 - 📊 Test Summary Report
